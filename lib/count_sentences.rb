@@ -18,5 +18,5 @@ class String
       arr = self.split(/[\.!?]/)
       arr.length
     end
-   
+
 end
