@@ -19,5 +19,5 @@ class String
   end
 
 
-  
+
 end
