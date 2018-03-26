@@ -19,5 +19,3 @@ class String
        arr.length
   end
 end
-
-
